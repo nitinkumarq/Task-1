@@ -1,4 +1,4 @@
-# Task-1
+# Task
 Q.1 import hashlib
 import time
 
